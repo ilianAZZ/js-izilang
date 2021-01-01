@@ -1,7 +1,5 @@
-
-
 function diagnostic() {
-  //no translation
+  //chencking missing translations
   let i = 0
   const e = $("*[ild]")
   console.log("Lang     element")
